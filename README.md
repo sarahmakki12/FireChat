@@ -1,5 +1,5 @@
-# FireChat
-Secure feature-complete chat app built with React.js frontend and Firebase backend. Features include user authentication, real-time data streams, and profanity filter.
+# FireTalk
+Secure feature-complete chat app built with React.js frontend and Firebase backend. Features include user authentication, real-time message streams, and profanity filter.
 
 ## Demo
 ### Sign in
